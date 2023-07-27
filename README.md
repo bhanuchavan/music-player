@@ -1,10 +1,6 @@
 # Music Player
 A simple, yet stylish music player with custom controls.
 
-## Demo
-You can view a live version [here](https://github.com/bhanuchavan/music-player/).
-
-[![](demo.png)](#)
 
 ## Tools
 * Fonts from [Google Fonts](https://fonts.google.com/)
