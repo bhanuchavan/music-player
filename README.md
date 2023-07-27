@@ -2,7 +2,7 @@
 A simple, yet stylish music player with custom controls.
 
 ## Demo
-You can view a live version [here](https://tinawebdev.github.io/javascript-projects/music-player/).
+You can view a live version [here](https://github.com/bhanuchavan/music-player/).
 
 [![](demo.png)](#)
 
